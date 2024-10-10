@@ -24,17 +24,25 @@ I have published more than 100 papers at the top international AI conferences wi
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 "Exploring context window of large language models via decomposed positional vectors", where I am the first author, has been accepted as a Spotlight at NeurIPS 2024.
-- *2024.02*: &nbsp;🎉🎉 "BAMBOO: A comprehensive benchmark for evaluating long text modeling capacities of large language models", where I am the first author, has been accepted at LREC/COLING 2024.
+- *2024.09*: &nbsp;🎉🎉 "Exploring context window of large language models via decomposed positional vectors" has been accepted as a Spotlight at NeurIPS 2024.
+- *2024.02*: &nbsp;🎉🎉 "BAMBOO: A comprehensive benchmark for evaluating long text modeling capacities of large language models" has been accepted at LREC/COLING 2024.
 
-<!-- # 📝 Publications 
+# 📝 Publications 
+## 2024
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[Exploring context window of large language models via decomposed positional vectors](https://arxiv.org/abs/2405.18009) **Zican Dong**, Junyi Li, Xin Men, Wayne Xin Zhao, Bingbing Wang, Zhen Tian, Weipeng Chen, Ji-Rong Wen | NeurIPS 2024 Spolight
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun -->
+[BAMBOO: A Comprehensive Benchmark for Evaluating Long Text Modeling](https://aclanthology.org/2024.lrec-main.188/) **Zican Dong**, Tianyi Tang, Junyi Li, Wayne Xin Zhao, Ji-Rong Wen | LREC/COLING 2024
+
+## 2023 
+[A Survey of Large Language Models](https://arxiv.org/abs/2303.18223) 	Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, **Zican Dong**, Yifan Du, Chen Yang, Yushuo Chen, Zhipeng Chen, Jinhao Jiang, Ruiyang Ren, Yifan Li, Xinyu Tang, Zikang Liu, Peiyu Liu, Jian-Yun Nie, Ji-Rong Wen| Preprint
+
+[A Survey on Long Text Modeling with Transformer](https://arxiv.org/abs/2302.14502) **Zican Dong**, Tianyi Tang, Junyi Li, Wayne Xin Zhao| Preprint
+
+[StructGPT: A General Framework for Large Language Model to Reason over Structured Data](https://aclanthology.org/2023.emnlp-main.574/) 	Jinhao Jiang, Kun Zhou, **Zican Dong**, Keming Ye, Wayne Xin Zhao, Ji-Rong Wen | EMNLP 2023
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
